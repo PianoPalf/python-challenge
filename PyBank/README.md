@@ -37,7 +37,7 @@ Use Python Script on .csv files containing data arranged in three columns:
 
 Output
 
-![Output Screenshot](/Users/samuelpalframan/Documents/Text Documents/University/Monash/Data Analytics Boot Camp/Modules/Module_3_Python/Module_3_Challenge/Starter_Code-3/PyBank/Submitted/analysis/Output Screenshot.png)
+![Output Screenshot](https://github.com/PianoPalf/python-challenge/assets/119825935/dec4985c-6de4-4bfb-85a4-16b56d2f8d13)
 
 ## Code example
 
