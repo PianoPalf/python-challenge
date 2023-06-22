@@ -37,7 +37,7 @@ Use Python Script on .csv files containing data arranged in three columns:
 
 Output
 
-![Screenshot - Output](/Users/samuelpalframan/Documents/Text Documents/University/Monash/Data Analytics Boot Camp/Modules/Module_3_Python/Module_3_Challenge/Starter_Code-3/PyPoll/Submitted/Screenshot - Output.png)
+![Screenshot - Output](https://github.com/PianoPalf/python-challenge/assets/119825935/b043caa9-be06-44d2-a259-2c1e78325bd4)
 
 ## Code example
 
